@@ -57,6 +57,3 @@ Solid streak! You're building a real habit. 🚀
 - Export progress as a chart using matplotlib
 - Add weekly/monthly summary view
 
-## 📄 License
-
-MIT
